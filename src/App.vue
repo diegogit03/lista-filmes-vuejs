@@ -19,6 +19,7 @@
 import FilmesLista from './components/FilmesLista.vue'
 
 export default {
+  name: 'App',
   components: {
     FilmesLista
   }
